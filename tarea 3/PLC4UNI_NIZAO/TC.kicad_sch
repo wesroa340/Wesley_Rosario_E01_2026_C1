@@ -1,0 +1,96 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f3759fba-9cab-4e05-8650-dace00ddba53")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "{slash}DRDY"
+		(shape output)
+		(at 55.88 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a6b561b-f748-4859-8299-23d568fe8873")
+	)
+	(hierarchical_label "TC+"
+		(shape input)
+		(at 55.88 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "26c0211b-cb63-4b83-a5df-1a27e98989b4")
+	)
+	(hierarchical_label "{slash}CS"
+		(shape input)
+		(at 55.88 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2b276680-d4cc-426e-acd1-80596fe5c9df")
+	)
+	(hierarchical_label "{slash}FAULT"
+		(shape output)
+		(at 55.88 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "30d13377-6116-458a-9107-2441c43532cc")
+	)
+	(hierarchical_label "SDO"
+		(shape output)
+		(at 55.88 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "541df55a-4a62-4b3d-9d25-dd592577a24b")
+	)
+	(hierarchical_label "SDK"
+		(shape output)
+		(at 55.88 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7540ba71-7b82-4a32-84fc-6f571e74d5ad")
+	)
+	(hierarchical_label "TC-"
+		(shape input)
+		(at 55.88 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd65362d-3ea2-4c94-8472-1b28af89f268")
+	)
+	(hierarchical_label "SDI"
+		(shape input)
+		(at 55.88 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d111bb05-284c-4829-b8f5-6e4bf78486cd")
+	)
+)
