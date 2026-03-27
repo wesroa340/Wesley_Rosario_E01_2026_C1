@@ -1,0 +1,1 @@
+perspetiva : Realizar un PLC con entradas y salidas de  tipos diversos para la enseñanza de control y electronica. 
